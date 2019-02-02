@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4046070733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f90e412ecd71aea53d507cc99dbbd792
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b9244f7b849f7f29e2920a04a54cc5c
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a557f94a8d81488dbb923cc6bd3bb21, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Theme Assets/Close Button.asset
+- Assets/Theme Assets/Accept Button.asset
+Dependencies: []

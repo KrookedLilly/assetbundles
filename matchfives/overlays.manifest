@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2418720324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a626720962254c5f256f734185ad662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 42603a22bf582637d37ce567262bb480
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 86368c19949cf4bda84868cb4ee3d875, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Theme Assets/Dark Overlay.asset
+- Assets/Theme Assets/Light Overlay.asset
+Dependencies: []
