@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 3377782098
+CRC: 143400255
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: buttons
-      Dependencies: {}
-    Info_1:
-      Name: overlays
       Dependencies: {}
