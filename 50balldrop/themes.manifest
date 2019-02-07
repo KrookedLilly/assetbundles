@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2250486721
+CRC: 3442895594
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: da70e14547beff4f3de8c5a4bf1806b6
+    Hash: c1c726a1b4db2546041aec948910da6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 97911cdc3b28df8a8eec1832898dc623
@@ -66,7 +66,6 @@ ClassTypes:
 Assets:
 - Assets/Theme Data/Basketball.asset
 - Assets/Theme Data/ST. Patrcks Day.asset
-- Assets/Theme Data/Classic.asset
 - Assets/Theme Data/Golf.asset
 - Assets/Theme Data/Office.asset
 - Assets/Theme Data/Pong.asset
