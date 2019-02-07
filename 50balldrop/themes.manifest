@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3627060411
+CRC: 2250486721
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f430d795954b50736bfd9be46d857640
+    Hash: da70e14547beff4f3de8c5a4bf1806b6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 97911cdc3b28df8a8eec1832898dc623
@@ -64,7 +64,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Theme Data/Random Theme.asset
 - Assets/Theme Data/Basketball.asset
 - Assets/Theme Data/ST. Patrcks Day.asset
 - Assets/Theme Data/Classic.asset
