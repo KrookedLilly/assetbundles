@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3523655365
+CRC: 2875169619
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 84446f13f33485d8767ba2130bbaba35
+    Hash: cde3c7cf519dc97b22bdffb9e2453b03
   TypeTreeHash:
     serializedVersion: 2
     Hash: 89cc7fcf3bfa16541ff2a5c22c943b9f
@@ -65,7 +65,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Theme Data/Basketball.asset
-- Assets/Theme Data/ST Patricks Day.asset
+- Assets/Theme Data/ST_Patricks_Day.asset
 - Assets/Theme Data/Golf.asset
 - Assets/Theme Data/Office.asset
 - Assets/Theme Data/Pong.asset
