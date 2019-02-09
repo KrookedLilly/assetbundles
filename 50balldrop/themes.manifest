@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2404972993
+CRC: 3551736272
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 06c1b7cdda8519323fca858e65f9f151
+    Hash: f181753868006f0f96302af42057ed43
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 89cc7fcf3bfa16541ff2a5c22c943b9f
+    Hash: 8eac59217ec12a40e33447eec4a63a61
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,8 +22,6 @@ ClassTypes:
 - Class: 50
   Script: {instanceID: 0}
 - Class: 58
-  Script: {instanceID: 0}
-- Class: 60
   Script: {instanceID: 0}
 - Class: 61
   Script: {instanceID: 0}
@@ -64,10 +62,10 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
+- Assets/Theme Data/New Test.asset
 - Assets/Theme Data/Basketball.asset
 - Assets/Theme Data/ST. Patricks Day.asset
 - Assets/Theme Data/Golf.asset
 - Assets/Theme Data/Office.asset
-- Assets/Theme Data/New Test 1.asset
 - Assets/Theme Data/Pong.asset
 Dependencies: []
