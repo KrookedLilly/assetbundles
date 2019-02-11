@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 35312895
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: themes
+      Dependencies: {}
