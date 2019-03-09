@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1835695458
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: golf
+      Dependencies: {}
+    Info_1:
+      Name: office
+      Dependencies: {}
