@@ -1,10 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1835695458
+CRC: 1135476907
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: golf
+      Name: defaults
       Dependencies: {}
     Info_1:
-      Name: office
-      Dependencies: {}
+      Name: golf-theme
+      Dependencies:
+        Dependency_0: defaults
+    Info_2:
+      Name: office-theme
+      Dependencies:
+        Dependency_0: defaults
