@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 346875306
+CRC: 1425381934
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -23,5 +23,9 @@ AssetBundleManifest:
         Dependency_0: __defaults
     Info_5:
       Name: st patricks day theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_6:
+      Name: classic
       Dependencies:
         Dependency_0: __defaults
