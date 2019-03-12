@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3676630790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38d1b55f34d7ed8e6d402096f8072ada
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14b7cdd0dc60a351f24217f66ae2f7c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6bf1935766b742bcbfc3c9d753eebdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 365905d5f4eb645f6ab3010f9381467d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57faa936c8d7e4f20a3a31a20b535ce6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scriptable Assets/Theme Data/Golf.asset
+Dependencies:
+- /Users/ryanharrington/Development/assetbundles/50balldrop/iOS/development/__defaults
