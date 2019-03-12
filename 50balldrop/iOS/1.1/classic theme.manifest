@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2266733136
+CRC: 135128523
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab732766f7b78a4b4f9900d87ec5c792
+    Hash: 841905a980afff038bd4f1d8ee2a09fd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e67e475ae7c61e6f13995da1cbe6ce4c
+    Hash: e923b36cd538abe2a71fb638902054f1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,10 +40,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 074443e089d094a24b069ed9ae038eb5, type: 3}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6bf1935766b742bcbfc3c9d753eebdb, type: 3}
@@ -60,10 +56,6 @@ ClassTypes:
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
   Script: {instanceID: 0}
 Assets:
 - Assets/Scriptable Assets/Theme Data/Classic.asset

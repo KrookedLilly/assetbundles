@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 709801620
+CRC: 1076858370
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea0943ba6e53343b2effd0dd0a7369c1
+    Hash: e96d41cbd14dc0293e594326a08b5ce3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f2a93f9e5d6eb05f6523ea09f8e6c637
+    Hash: be9e0035e5f2b7a8e21b5c9348ca231b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,10 +30,6 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6bf1935766b742bcbfc3c9d753eebdb, type: 3}
@@ -46,10 +42,6 @@ ClassTypes:
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
   Script: {instanceID: 0}
 Assets:
 - Assets/Scriptable Assets/Theme Data/Office.asset

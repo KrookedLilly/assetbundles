@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1919153747
+CRC: 714239721
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b667471725335ac36ef4829e8a41089
+    Hash: 34819f10857f46ffd8ed849c110f3c68
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0297c0d49858ddbb7a58c280fce5ef09
+    Hash: d4910316c1be8fde5f610da3dea3ba3c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,10 +32,6 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6bf1935766b742bcbfc3c9d753eebdb, type: 3}
@@ -48,10 +44,6 @@ ClassTypes:
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
   Script: {instanceID: 0}
 Assets:
 - Assets/Scriptable Assets/Theme Data/ST Patricks Day.asset

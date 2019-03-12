@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1142844617
+CRC: 743482460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 786f1bc62d33072c86792145720203d6
+    Hash: b9497d8c69443eee4bba861fdcc9301d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f2a93f9e5d6eb05f6523ea09f8e6c637
+    Hash: be888e888dbbb6b5685fdf5f2baa11b1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,10 +30,6 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6bf1935766b742bcbfc3c9d753eebdb, type: 3}
@@ -41,15 +37,13 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 365905d5f4eb645f6ab3010f9381467d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 57faa936c8d7e4f20a3a31a20b535ce6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
   Script: {instanceID: 0}
 Assets:
 - Assets/Scriptable Assets/Theme Data/Basketball.asset
