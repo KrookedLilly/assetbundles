@@ -1,20 +1,20 @@
 ManifestFileVersion: 0
-CRC: 2605055103
+CRC: 448596880
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: basketball theme
-      Dependencies:
-        Dependency_0: __defaults
-    Info_1:
       Name: __defaults
       Dependencies: {}
+    Info_1:
+      Name: pong theme
+      Dependencies:
+        Dependency_0: __defaults
     Info_2:
-      Name: office theme
+      Name: golf theme
       Dependencies:
         Dependency_0: __defaults
     Info_3:
-      Name: golf theme
+      Name: basketball theme
       Dependencies:
         Dependency_0: __defaults
     Info_4:
@@ -22,10 +22,10 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: __defaults
     Info_5:
-      Name: classic theme
+      Name: office theme
       Dependencies:
         Dependency_0: __defaults
     Info_6:
-      Name: pong theme
+      Name: classic theme
       Dependencies:
         Dependency_0: __defaults
