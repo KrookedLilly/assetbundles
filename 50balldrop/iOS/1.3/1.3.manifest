@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 448596880
+CRC: 3364885576
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -27,5 +27,9 @@ AssetBundleManifest:
         Dependency_0: __defaults
     Info_6:
       Name: classic theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_7:
+      Name: random test
       Dependencies:
         Dependency_0: __defaults
