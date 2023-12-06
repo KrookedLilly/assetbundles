@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2629552088
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: __defaults
+      Dependencies: {}
+    Info_1:
+      Name: classic ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_2:
+      Name: skull ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_3:
+      Name: heart ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_4:
+      Name: rainbow ball theme
+      Dependencies:
+        Dependency_0: __defaults
