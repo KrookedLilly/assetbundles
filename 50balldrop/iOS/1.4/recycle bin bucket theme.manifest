@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2106183878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab8532620afb66a8d9530d8a8f0e839c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 936e23263b4e1193fbbfa9c15939d113
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab8532620afb66a8d9530d8a8f0e839c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 600b2daf3147a454d8cfae7442f0a0be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme Data/Bucket Themes/Recycle Bin Bucket Theme.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults

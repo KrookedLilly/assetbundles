@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2629552088
+CRC: 1249537920
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,5 +19,13 @@ AssetBundleManifest:
         Dependency_0: __defaults
     Info_4:
       Name: rainbow ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_5:
+      Name: classic bucket theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_6:
+      Name: recycle bin bucket theme
       Dependencies:
         Dependency_0: __defaults
