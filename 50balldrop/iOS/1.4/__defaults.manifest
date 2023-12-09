@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3773295894
+CRC: 1955571519
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 55f136f99c40f0a1fa4fbd49485d7939
+    Hash: 55036bef6a087a21405769f50b7e7df7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 08e2d76a10801d7f5532abb926a05bb6
+    Hash: c5b3eb0fb4595f3a4d7965cfd76bf1e8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 55f136f99c40f0a1fa4fbd49485d7939
+    Hash: 55036bef6a087a21405769f50b7e7df7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,6 +41,8 @@ ClassTypes:
 - Class: 96
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9a1c822e65d5c4981986c7f25428c1be, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
@@ -66,6 +68,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
@@ -75,11 +81,14 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.PersistentListenerMode
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Textures/yellow-circle.png
 - Assets/Textures/ezgif-1-45f5fdb326d5.png
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
 - Assets/Sounds/Catch Ball Sound.wav
+- Assets/Prefabs/Backgrounds/Classic Background.prefab
 - Assets/Animations/Flame Animation New.anim
 - Assets/Sounds/pop.wav
 - Assets/Sounds/Collected Rock Sound.wav
@@ -94,5 +103,6 @@ Assets:
 - Assets/Materials/Ball Material - NO BOUNCE.physicsMaterial2D
 - Assets/Textures/Generic Square.png
 - Assets/Textures/sun-beams.png
+- Assets/Textures/Default Background.jpg
 - Assets/Materials/Ball Fire Animation Texture.mat
 Dependencies: []

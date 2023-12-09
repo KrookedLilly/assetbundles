@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3883751676
+CRC: 4059725224
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -30,12 +30,20 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: __defaults
     Info_7:
+      Name: classic tube theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_8:
+      Name: office background theme
+      Dependencies: {}
+    Info_9:
       Name: classic theme collection
       Dependencies:
         Dependency_0: classic ball theme
         Dependency_1: classic bucket theme
         Dependency_2: classic tube theme
-    Info_8:
-      Name: classic tube theme
+        Dependency_3: classic background theme
+    Info_10:
+      Name: classic background theme
       Dependencies:
         Dependency_0: __defaults

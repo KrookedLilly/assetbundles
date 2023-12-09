@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3016369197
+CRC: 3597938766
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39ed2975b9c8fd2bc7132663714ab516
+    Hash: c79c9367d8b1aadae7e9e924e1c49a53
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a33d84d070b1755b051adaee61407bf4
+    Hash: d1621facc85dfd1556303a8c4dd7e358
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 39ed2975b9c8fd2bc7132663714ab516
+    Hash: c79c9367d8b1aadae7e9e924e1c49a53
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -32,6 +32,8 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Theme Assets/Theme Collections/Classic Theme Collection.asset
 Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
+  background theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
   ball theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
