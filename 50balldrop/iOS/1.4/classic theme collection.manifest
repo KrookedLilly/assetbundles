@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3016369197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39ed2975b9c8fd2bc7132663714ab516
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a33d84d070b1755b051adaee61407bf4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39ed2975b9c8fd2bc7132663714ab516
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09284552266974704b0bf838e57732a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74db0ffcf496f4ac0bac9e188ac0ede3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f07dd2ddebf39422888923075b4c654d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme Assets/Theme Collections/Classic Theme Collection.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
+  ball theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
+  bucket theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/classic
+  tube theme
