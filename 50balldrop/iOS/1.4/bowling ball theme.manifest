@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 761723176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97aac347d01b5465baa15d4fe0354634
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebe2d99f706a68c78f668d56131c82f9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97aac347d01b5465baa15d4fe0354634
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57faa936c8d7e4f20a3a31a20b535ce6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme Assets/Ball Themes/Bowling Ball Theme.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults

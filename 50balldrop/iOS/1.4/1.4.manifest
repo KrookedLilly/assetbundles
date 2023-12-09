@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2930876868
+CRC: 697589712
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -154,5 +154,37 @@ AssetBundleManifest:
         Dependency_2: stpatricks bucket theme
     Info_33:
       Name: paper ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_34:
+      Name: 8 ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_35:
+      Name: base ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_36:
+      Name: beach ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_37:
+      Name: bowling ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_38:
+      Name: foot ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_39:
+      Name: soccor ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_40:
+      Name: tennis ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_41:
+      Name: volley ball theme
       Dependencies:
         Dependency_0: __defaults
