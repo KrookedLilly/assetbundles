@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1955571519
+CRC: 580594452
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 55036bef6a087a21405769f50b7e7df7
+    Hash: e248a3c4056db007e4ae40c72b3aa41c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c5b3eb0fb4595f3a4d7965cfd76bf1e8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 55036bef6a087a21405769f50b7e7df7
+    Hash: e248a3c4056db007e4ae40c72b3aa41c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -88,15 +88,17 @@ Assets:
 - Assets/Textures/ezgif-1-45f5fdb326d5.png
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
 - Assets/Sounds/Catch Ball Sound.wav
-- Assets/Prefabs/Backgrounds/Classic Background.prefab
+- Assets/Textures/Office Background.png
 - Assets/Animations/Flame Animation New.anim
 - Assets/Sounds/pop.wav
+- Assets/Prefabs/Backgrounds/Classic Background.prefab
 - Assets/Sounds/Collected Rock Sound.wav
 - Assets/Materials/Bouncy Ground.physicsMaterial2D
 - Assets/Sounds/108336__qat__click-01-fast_normalized.wav
 - Assets/Textures/Square.png
 - Assets/Prefabs/Balls/Classic Ball.prefab
 - Assets/Animations/ezgif-1-45f5fdb326d5_0.controller
+- Assets/Textures/Default Theme Thumbnail.PNG
 - Assets/Materials/Ball Material.physicsMaterial2D
 - Assets/Textures/Circle.png
 - Assets/Textures/ezgif-1-45f5fdb326d6.png
@@ -105,4 +107,5 @@ Assets:
 - Assets/Textures/sun-beams.png
 - Assets/Textures/Default Background.jpg
 - Assets/Materials/Ball Fire Animation Texture.mat
+- Assets/Prefabs/Backgrounds/Office Background.prefab
 Dependencies: []
