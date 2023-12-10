@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3215813619
+CRC: 3781403929
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -188,3 +188,27 @@ AssetBundleManifest:
       Name: eight ball theme
       Dependencies:
         Dependency_0: __defaults
+    Info_42:
+      Name: green ball theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_43:
+      Name: presents bucket theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_44:
+      Name: holiday background theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_45:
+      Name: holiday tube theme
+      Dependencies:
+        Dependency_0: __defaults
+    Info_46:
+      Name: holday theme collection
+      Dependencies:
+        Dependency_0: __defaults
+        Dependency_1: green ball theme
+        Dependency_2: presents bucket theme
+        Dependency_3: holiday background theme
+        Dependency_4: holiday tube theme

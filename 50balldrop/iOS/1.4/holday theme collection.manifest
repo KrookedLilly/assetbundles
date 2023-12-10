@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 783958405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc6d4cf1b0274bbc5434ee21dd4e0c9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb5694ae21118f30ffa8a5d4ca6b4f90
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc6d4cf1b0274bbc5434ee21dd4e0c9e
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09284552266974704b0bf838e57732a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74db0ffcf496f4ac0bac9e188ac0ede3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f07dd2ddebf39422888923075b4c654d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme Assets/Theme Collections/Holday Theme Collection.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/green
+  ball theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/holiday
+  background theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/holiday
+  tube theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/presents
+  bucket theme

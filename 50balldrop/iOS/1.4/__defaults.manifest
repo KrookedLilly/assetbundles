@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2286743486
+CRC: 3147580904
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9ac0b243ecb1cbca966061a0132f3a2
+    Hash: 4f6fcb8bd45ec9be7b46c0ada838d3d7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7b6b03696f882a337deae420f4027c96
+    Hash: c29c10fb382dcc5125a0bcd42d6f4480
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d9ac0b243ecb1cbca966061a0132f3a2
+    Hash: 4f6fcb8bd45ec9be7b46c0ada838d3d7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,6 +60,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 074443e089d094a24b069ed9ae038eb5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc518ca3c49764d9e80f513ce4a35f06, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 198
@@ -86,81 +88,92 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Textures/black-caudron-front-v2.png
 - Assets/Textures/yellow-circle.png
 - Assets/Prefabs/Buckets/Recycle Bin.prefab
-- Assets/Textures/Balls/Golf-Ball-OLD.png
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
 - Assets/Sounds/Catch Ball Sound.wav
 - Assets/Prefabs/Balls/Soccor Ball.prefab
-- Assets/Animations/Flame Animation New.anim
-- Assets/Sounds/pop.wav
-- Assets/Textures/Golf Background.png
-- Assets/Textures/gold-coin.png
-- Assets/Prefabs/Balls/Paper Ball.prefab
-- Assets/Materials/Bouncy Ground.physicsMaterial2D
-- Assets/Textures/Pong Background.png
 - Assets/Prefabs/Balls/Golf Ball.prefab
-- Assets/Textures/Square.png
+- Assets/Textures/Backgrounds/Pong Background.png
 - Assets/Prefabs/Backgrounds/Basketball Background.prefab
 - Assets/Prefabs/Balls/Gold Coin.prefab
 - Assets/Textures/Balls/baseball.png
-- Assets/Textures/bin_back.png
 - Assets/Animations/ezgif-1-45f5fdb326d5_0.controller
 - Assets/Textures/Default Theme Thumbnail.PNG
 - Assets/Textures/hoop_front1.png
-- Assets/Prefabs/Backgrounds/StPatricks Background.prefab
-- Assets/Prefabs/Balls/Football.prefab
 - Assets/Textures/golf_bucket_front.png
 - Assets/Textures/Balls/Circle.png
+- Assets/Textures/Fireplace Animation/fire-3.png
+- Assets/Textures/Balls/football.png
+- Assets/Textures/Generic Square.png
+- Assets/Textures/Fireplace Animation/fire-1.png
+- Assets/Textures/Pong Theme Thumbnail.png
+- Assets/Textures/bin_front.png
+- Assets/Textures/ezgif-1-45f5fdb326d5.png
+- Assets/Textures/Backgrounds/Office Background.png
+- Assets/Prefabs/Backgrounds/Golf Background.prefab
+- Assets/Textures/Fireplace Animation/fire-4.png
+- Assets/Prefabs/Backgrounds/Pong Background.prefab
+- Assets/Textures/Balls/beach-ball.png
+- Assets/Textures/bin_fill.png
+- Assets/Textures/Backgrounds/christmas-theme.png
+- Assets/Sounds/Collected Rock Sound.wav
+- Assets/Textures/Balls/bowling-ball.png
+- Assets/Sounds/108336__qat__click-01-fast_normalized.wav
+- Assets/Prefabs/Balls/Red Ball.prefab
+- Assets/Textures/Balls/soccor-ball.png
+- Assets/Prefabs/Balls/Ping Pong Ball.prefab
+- Assets/Textures/Balls/new-golf-ball.png
+- Assets/Textures/snow_heavy.png
+- Assets/Textures/hoop_stand.png
+- Assets/Textures/black-cauldron 1.png
+- Assets/Materials/Ball Material - NO BOUNCE.physicsMaterial2D
+- Assets/Textures/Hoop-net.png
+- Assets/Textures/Balls/new-basketball.png
+- Assets/Prefabs/Balls/Baseball.prefab
+- Assets/Prefabs/Buckets/Golf Bucket.prefab
+- Assets/Prefabs/Backgrounds/Office Background.prefab
+- Assets/Textures/black-caudron-front-v2.png
+- Assets/Textures/Balls/Golf-Ball-OLD.png
+- Assets/Animations/Flame Animation New.anim
+- Assets/Prefabs/Buckets/Present Bucket.prefab
+- Assets/Sounds/pop.wav
+- Assets/Textures/Backgrounds/Golf Background.png
+- Assets/Textures/gold-coin.png
+- Assets/Textures/Backgrounds/window-overlay.png
+- Assets/Textures/Backgrounds/christmas-tree-with-presents.png
+- Assets/Materials/Bouncy Ground.physicsMaterial2D
+- Assets/Prefabs/Balls/Paper Ball.prefab
+- Assets/Textures/Square.png
+- Assets/Prefabs/Balls/Green Ball.prefab
+- Assets/Textures/bin_back.png
+- Assets/Prefabs/Balls/Football.prefab
+- Assets/Prefabs/Backgrounds/StPatricks Background.prefab
+- Assets/Textures/Buckets/presents.png
 - Assets/Textures/Balls/ping-pong.png
 - Assets/Prefabs/Balls/8 Ball.prefab
-- Assets/Textures/Generic Square.png
+- Assets/Prefabs/Backgrounds/Holiday Background.prefab
 - Assets/Textures/Balls/8-ball.png
 - Assets/Textures/pong_cup_whole.png
 - Assets/Textures/crumpled_paper.png
 - Assets/Materials/Ball Fire Animation Texture.mat
-- Assets/Textures/Balls/football.png
-- Assets/Textures/Default Background.jpg
-- Assets/Textures/Pong Theme Thumbnail.png
-- Assets/Textures/bin_front.png
-- Assets/Textures/ezgif-1-45f5fdb326d5.png
+- Assets/Textures/Backgrounds/Default Background.jpg
 - Assets/Prefabs/Buckets/Black Cauldron.prefab
-- Assets/Textures/Office Background.png
 - Assets/Prefabs/Backgrounds/Classic Background.prefab
-- Assets/Prefabs/Backgrounds/Golf Background.prefab
-- Assets/Prefabs/Backgrounds/Pong Background.prefab
-- Assets/Textures/Balls/beach-ball.png
-- Assets/Textures/bin_fill.png
 - Assets/Prefabs/Buckets/Solo Cup.prefab
-- Assets/Sounds/Collected Rock Sound.wav
-- Assets/Textures/Balls/bowling-ball.png
-- Assets/Sounds/108336__qat__click-01-fast_normalized.wav
 - Assets/Prefabs/Buckets/Basketball Hoop.prefab
-- Assets/Prefabs/Balls/Classic Ball.prefab
-- Assets/Textures/Balls/soccor-ball.png
 - Assets/Textures/pong_cup_front.png
 - Assets/Prefabs/Balls/Beach Ball.prefab
 - Assets/Textures/backboard.png
-- Assets/Prefabs/Balls/Ping Pong Ball.prefab
-- Assets/Textures/ST Patricks Day Background.png
-- Assets/Textures/Balls/new-golf-ball.png
+- Assets/Textures/Backgrounds/ST Patricks Day Background.png
 - Assets/Textures/recycling_sign.png
-- Assets/Textures/Basketball Background.png
+- Assets/Textures/Backgrounds/Basketball Background.png
 - Assets/Textures/Balls/Basketball Clip Art-OLD.png
-- Assets/Textures/hoop_stand.png
 - Assets/Textures/hoop back.png
-- Assets/Textures/black-cauldron 1.png
 - Assets/Materials/Ball Material.physicsMaterial2D
-- Assets/Textures/Hoop-net.png
-- Assets/Textures/Balls/new-basketball.png
-- Assets/Prefabs/Balls/Baseball.prefab
 - Assets/Textures/ezgif-1-45f5fdb326d6.png
-- Assets/Materials/Ball Material - NO BOUNCE.physicsMaterial2D
 - Assets/Prefabs/Balls/Bowling Ball.prefab
 - Assets/Textures/sun-beams.png
 - Assets/Textures/golf_bucket.png
 - Assets/Prefabs/Balls/Basketball.prefab
-- Assets/Prefabs/Buckets/Golf Bucket.prefab
-- Assets/Prefabs/Backgrounds/Office Background.prefab
 Dependencies: []
