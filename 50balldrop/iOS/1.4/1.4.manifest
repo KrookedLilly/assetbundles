@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3781403929
+CRC: 4169057225
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -196,6 +196,7 @@ AssetBundleManifest:
       Name: presents bucket theme
       Dependencies:
         Dependency_0: __defaults
+        Dependency_1: present bucket
     Info_44:
       Name: holiday background theme
       Dependencies:
@@ -212,3 +213,7 @@ AssetBundleManifest:
         Dependency_2: presents bucket theme
         Dependency_3: holiday background theme
         Dependency_4: holiday tube theme
+    Info_47:
+      Name: present bucket
+      Dependencies:
+        Dependency_0: __defaults

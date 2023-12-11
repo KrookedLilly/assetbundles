@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3147580904
+CRC: 2526833623
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f6fcb8bd45ec9be7b46c0ada838d3d7
+    Hash: 068b6141f5c127830fe2f913141e5146
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c29c10fb382dcc5125a0bcd42d6f4480
+    Hash: 017755e5c2a90aa7ac134220e1bcd7a7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4f6fcb8bd45ec9be7b46c0ada838d3d7
+    Hash: 068b6141f5c127830fe2f913141e5146
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -47,6 +47,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9a1c822e65d5c4981986c7f25428c1be, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: dc518ca3c49764d9e80f513ce4a35f06, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9528f4b8018814f1cba0ac6b50897fd2, type: 3}
@@ -61,7 +63,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc518ca3c49764d9e80f513ce4a35f06, type: 3}
+  Script: {fileID: 11500000, guid: cade28b6d25e849d0861febf7968ee0d, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 198
@@ -90,26 +92,37 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Textures/yellow-circle.png
 - Assets/Prefabs/Buckets/Recycle Bin.prefab
+- Assets/Textures/Backgrounds/snow-8.png
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
 - Assets/Sounds/Catch Ball Sound.wav
 - Assets/Prefabs/Balls/Soccor Ball.prefab
-- Assets/Prefabs/Balls/Golf Ball.prefab
+- Assets/Prefabs/Buckets/Green Present Bucket.prefab
+- Assets/Textures/Backgrounds/christmas-lights.png
+- Assets/Prefabs/Buckets/Yellow Present Bucket.prefab
+- Assets/Textures/Backgrounds/snow-11.png
 - Assets/Textures/Backgrounds/Pong Background.png
+- Assets/Prefabs/Balls/Golf Ball.prefab
 - Assets/Prefabs/Backgrounds/Basketball Background.prefab
 - Assets/Prefabs/Balls/Gold Coin.prefab
 - Assets/Textures/Balls/baseball.png
+- Assets/Textures/Buckets/orange-present-overlay.png
 - Assets/Animations/ezgif-1-45f5fdb326d5_0.controller
 - Assets/Textures/Default Theme Thumbnail.PNG
+- Assets/Textures/Backgrounds/snow-6.png
 - Assets/Textures/hoop_front1.png
 - Assets/Textures/golf_bucket_front.png
 - Assets/Textures/Balls/Circle.png
 - Assets/Textures/Fireplace Animation/fire-3.png
+- Assets/Textures/Backgrounds/snow-12.png
 - Assets/Textures/Balls/football.png
 - Assets/Textures/Generic Square.png
 - Assets/Textures/Fireplace Animation/fire-1.png
+- Assets/Textures/Buckets/green-present-overlay.png
 - Assets/Textures/Pong Theme Thumbnail.png
 - Assets/Textures/bin_front.png
+- Assets/Textures/Backgrounds/snow-2.png
 - Assets/Textures/ezgif-1-45f5fdb326d5.png
+- Assets/Textures/Buckets/purple-present-overlay.png
 - Assets/Textures/Backgrounds/Office Background.png
 - Assets/Prefabs/Backgrounds/Golf Background.prefab
 - Assets/Textures/Fireplace Animation/fire-4.png
@@ -124,6 +137,7 @@ Assets:
 - Assets/Textures/Balls/soccor-ball.png
 - Assets/Prefabs/Balls/Ping Pong Ball.prefab
 - Assets/Textures/Balls/new-golf-ball.png
+- Assets/Textures/Backgrounds/snow-14.png
 - Assets/Textures/snow_heavy.png
 - Assets/Textures/hoop_stand.png
 - Assets/Textures/black-cauldron 1.png
@@ -131,25 +145,34 @@ Assets:
 - Assets/Textures/Hoop-net.png
 - Assets/Textures/Balls/new-basketball.png
 - Assets/Prefabs/Balls/Baseball.prefab
+- Assets/Textures/Buckets/yellow-present-overlay.png
+- Assets/Textures/Backgrounds/snow-5.png
 - Assets/Prefabs/Buckets/Golf Bucket.prefab
 - Assets/Prefabs/Backgrounds/Office Background.prefab
 - Assets/Textures/black-caudron-front-v2.png
 - Assets/Textures/Balls/Golf-Ball-OLD.png
 - Assets/Animations/Flame Animation New.anim
-- Assets/Prefabs/Buckets/Present Bucket.prefab
+- Assets/Textures/Backgrounds/snow-0.png
+- Assets/Prefabs/Buckets/Blue Present Bucket.prefab
 - Assets/Sounds/pop.wav
+- Assets/Textures/Backgrounds/snow-10.png
 - Assets/Textures/Backgrounds/Golf Background.png
 - Assets/Textures/gold-coin.png
 - Assets/Textures/Backgrounds/window-overlay.png
 - Assets/Textures/Backgrounds/christmas-tree-with-presents.png
 - Assets/Materials/Bouncy Ground.physicsMaterial2D
 - Assets/Prefabs/Balls/Paper Ball.prefab
+- Assets/Textures/Buckets/blue-present.png
+- Assets/Textures/Backgrounds/snow-15.png
 - Assets/Textures/Square.png
 - Assets/Prefabs/Balls/Green Ball.prefab
 - Assets/Textures/bin_back.png
+- Assets/Textures/Buckets/blue-present-overlay.png
+- Assets/Textures/Backgrounds/snow-1.png
 - Assets/Prefabs/Balls/Football.prefab
 - Assets/Prefabs/Backgrounds/StPatricks Background.prefab
-- Assets/Textures/Buckets/presents.png
+- Assets/Textures/Backgrounds/snow-4.png
+- Assets/Textures/Backgrounds/snow-7.png
 - Assets/Textures/Balls/ping-pong.png
 - Assets/Prefabs/Balls/8 Ball.prefab
 - Assets/Prefabs/Backgrounds/Holiday Background.prefab
@@ -158,22 +181,31 @@ Assets:
 - Assets/Textures/crumpled_paper.png
 - Assets/Materials/Ball Fire Animation Texture.mat
 - Assets/Textures/Backgrounds/Default Background.jpg
+- Assets/Textures/Backgrounds/snow-13.png
 - Assets/Prefabs/Buckets/Black Cauldron.prefab
 - Assets/Prefabs/Backgrounds/Classic Background.prefab
+- Assets/Textures/Backgrounds/snow-9.png
+- Assets/Textures/Backgrounds/snow-3.png
 - Assets/Prefabs/Buckets/Solo Cup.prefab
+- Assets/Textures/Backgrounds/fireplace-0.png
 - Assets/Prefabs/Buckets/Basketball Hoop.prefab
 - Assets/Textures/pong_cup_front.png
+- Assets/Textures/Backgrounds/fireplace-2.png
 - Assets/Prefabs/Balls/Beach Ball.prefab
 - Assets/Textures/backboard.png
 - Assets/Textures/Backgrounds/ST Patricks Day Background.png
 - Assets/Textures/recycling_sign.png
+- Assets/Prefabs/Buckets/Orange Present Bucket.prefab
 - Assets/Textures/Backgrounds/Basketball Background.png
+- Assets/Prefabs/Buckets/Basic Present Bucket.prefab
 - Assets/Textures/Balls/Basketball Clip Art-OLD.png
-- Assets/Textures/hoop back.png
 - Assets/Materials/Ball Material.physicsMaterial2D
+- Assets/Textures/hoop back.png
 - Assets/Textures/ezgif-1-45f5fdb326d6.png
+- Assets/Textures/Backgrounds/fireplace-3.png
 - Assets/Prefabs/Balls/Bowling Ball.prefab
 - Assets/Textures/sun-beams.png
 - Assets/Textures/golf_bucket.png
+- Assets/Prefabs/Buckets/Purple Present Bucket.prefab
 - Assets/Prefabs/Balls/Basketball.prefab
 Dependencies: []
