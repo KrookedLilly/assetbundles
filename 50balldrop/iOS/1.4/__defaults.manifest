@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2526833623
+CRC: 1116043457
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 068b6141f5c127830fe2f913141e5146
+    Hash: f290ea80534a87b8d9bb9463c3e2a8ab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 017755e5c2a90aa7ac134220e1bcd7a7
+    Hash: e643662511bc1c3b25bd8b9ad5546e09
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 068b6141f5c127830fe2f913141e5146
+    Hash: f290ea80534a87b8d9bb9463c3e2a8ab
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -96,7 +96,6 @@ Assets:
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
 - Assets/Sounds/Catch Ball Sound.wav
 - Assets/Prefabs/Balls/Soccor Ball.prefab
-- Assets/Prefabs/Buckets/Green Present Bucket.prefab
 - Assets/Textures/Backgrounds/christmas-lights.png
 - Assets/Prefabs/Buckets/Yellow Present Bucket.prefab
 - Assets/Textures/Backgrounds/snow-11.png
@@ -120,6 +119,7 @@ Assets:
 - Assets/Textures/Buckets/green-present-overlay.png
 - Assets/Textures/Pong Theme Thumbnail.png
 - Assets/Textures/bin_front.png
+- Assets/Textures/Balls/ornament-hat.png
 - Assets/Textures/Backgrounds/snow-2.png
 - Assets/Textures/ezgif-1-45f5fdb326d5.png
 - Assets/Textures/Buckets/purple-present-overlay.png
@@ -140,6 +140,7 @@ Assets:
 - Assets/Textures/Backgrounds/snow-14.png
 - Assets/Textures/snow_heavy.png
 - Assets/Textures/hoop_stand.png
+- Assets/Textures/Balls/gold-ornament.png
 - Assets/Textures/black-cauldron 1.png
 - Assets/Materials/Ball Material - NO BOUNCE.physicsMaterial2D
 - Assets/Textures/Hoop-net.png
@@ -153,8 +154,8 @@ Assets:
 - Assets/Textures/Balls/Golf-Ball-OLD.png
 - Assets/Animations/Flame Animation New.anim
 - Assets/Textures/Backgrounds/snow-0.png
-- Assets/Prefabs/Buckets/Blue Present Bucket.prefab
 - Assets/Sounds/pop.wav
+- Assets/Textures/Backgrounds/snow-15.png
 - Assets/Textures/Backgrounds/snow-10.png
 - Assets/Textures/Backgrounds/Golf Background.png
 - Assets/Textures/gold-coin.png
@@ -163,7 +164,6 @@ Assets:
 - Assets/Materials/Bouncy Ground.physicsMaterial2D
 - Assets/Prefabs/Balls/Paper Ball.prefab
 - Assets/Textures/Buckets/blue-present.png
-- Assets/Textures/Backgrounds/snow-15.png
 - Assets/Textures/Square.png
 - Assets/Prefabs/Balls/Green Ball.prefab
 - Assets/Textures/bin_back.png
@@ -195,17 +195,15 @@ Assets:
 - Assets/Textures/backboard.png
 - Assets/Textures/Backgrounds/ST Patricks Day Background.png
 - Assets/Textures/recycling_sign.png
-- Assets/Prefabs/Buckets/Orange Present Bucket.prefab
 - Assets/Textures/Backgrounds/Basketball Background.png
-- Assets/Prefabs/Buckets/Basic Present Bucket.prefab
 - Assets/Textures/Balls/Basketball Clip Art-OLD.png
-- Assets/Materials/Ball Material.physicsMaterial2D
 - Assets/Textures/hoop back.png
+- Assets/Materials/Ball Material.physicsMaterial2D
 - Assets/Textures/ezgif-1-45f5fdb326d6.png
 - Assets/Textures/Backgrounds/fireplace-3.png
+- Assets/Textures/Balls/green-ornament.png
 - Assets/Prefabs/Balls/Bowling Ball.prefab
 - Assets/Textures/sun-beams.png
 - Assets/Textures/golf_bucket.png
-- Assets/Prefabs/Buckets/Purple Present Bucket.prefab
 - Assets/Prefabs/Balls/Basketball.prefab
 Dependencies: []
