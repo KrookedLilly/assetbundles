@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3328004019
+CRC: 349987824
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad8e2d749ceb838161c996ce3b227f0d
+    Hash: f693b9a45782e178ea060c81940d914f
   TypeTreeHash:
     serializedVersion: 2
     Hash: a085200c5281fc844257d73e9342ca43
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ad8e2d749ceb838161c996ce3b227f0d
+    Hash: f693b9a45782e178ea060c81940d914f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -39,6 +39,7 @@ Assets:
 - Assets/Theme Assets/UI Themes/Five Amount Sprite.asset
 - Assets/Theme Assets/UI Themes/Shop Button Sprite.asset
 - Assets/Theme Assets/UI Themes/Play Button Theme.asset
+- Assets/Theme Assets/UI Themes/Locked Store Item Overlay.asset
 - Assets/Theme Assets/UI Themes/Balls Footer Button Icon Sprite.asset
 - Assets/Theme Assets/UI Themes/Generic Button Data.asset
 - Assets/Theme Assets/UI Themes/Shop Footer Button Theme.asset
