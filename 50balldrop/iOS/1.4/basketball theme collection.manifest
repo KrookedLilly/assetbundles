@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1374285460
+CRC: 1975967427
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad36cad3b0db4e214470dd25f1c00e9e
+    Hash: 566f9b908ac17b6333f6e129cbef6c04
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5a4ae9b9e991db62d2ef4d91be449377
+    Hash: 2b0d2aeb4e5392dacf62b84ca08e15c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ad36cad3b0db4e214470dd25f1c00e9e
+    Hash: 566f9b908ac17b6333f6e129cbef6c04
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
 - Class: 114
@@ -32,6 +30,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Theme Assets/Theme Collections/Basketball Theme Collection.asset
 Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/basket
   ball theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/basketball

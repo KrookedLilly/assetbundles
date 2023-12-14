@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 198971749
+CRC: 3045615904
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -56,10 +56,11 @@ AssetBundleManifest:
     Info_12:
       Name: office theme collection
       Dependencies:
-        Dependency_0: recycle bin bucket theme
-        Dependency_1: office background theme
-        Dependency_2: office tube theme
-        Dependency_3: paper ball theme
+        Dependency_0: __defaults
+        Dependency_1: recycle bin bucket theme
+        Dependency_2: office background theme
+        Dependency_3: office tube theme
+        Dependency_4: paper ball theme
     Info_13:
       Name: golf background theme
       Dependencies:
@@ -127,17 +128,19 @@ AssetBundleManifest:
     Info_29:
       Name: basketball theme collection
       Dependencies:
-        Dependency_0: basketball background theme
-        Dependency_1: basket ball theme
-        Dependency_2: basketball bucket theme
-        Dependency_3: basketball tube theme
+        Dependency_0: __defaults
+        Dependency_1: basketball background theme
+        Dependency_2: basket ball theme
+        Dependency_3: basketball bucket theme
+        Dependency_4: basketball tube theme
     Info_30:
       Name: golf theme collection
       Dependencies:
-        Dependency_0: golf background theme
-        Dependency_1: golf ball theme
-        Dependency_2: golf bucket theme
-        Dependency_3: golf tube theme
+        Dependency_0: __defaults
+        Dependency_1: golf background theme
+        Dependency_2: golf ball theme
+        Dependency_3: golf bucket theme
+        Dependency_4: golf tube theme
     Info_31:
       Name: pong theme collection
       Dependencies:
@@ -149,9 +152,10 @@ AssetBundleManifest:
     Info_32:
       Name: stpatricks theme collection
       Dependencies:
-        Dependency_0: stpatricks background theme
-        Dependency_1: stpatricks ball theme
-        Dependency_2: stpatricks bucket theme
+        Dependency_0: __defaults
+        Dependency_1: stpatricks background theme
+        Dependency_2: stpatricks ball theme
+        Dependency_3: stpatricks bucket theme
     Info_33:
       Name: paper ball theme
       Dependencies:

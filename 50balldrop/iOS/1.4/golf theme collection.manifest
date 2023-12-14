@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2707883764
+CRC: 198452895
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e93962c45977a54173fe63e06b0968c
+    Hash: c747008736bf1275021de8ffa77d19fb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5a4ae9b9e991db62d2ef4d91be449377
+    Hash: 2b0d2aeb4e5392dacf62b84ca08e15c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2e93962c45977a54173fe63e06b0968c
+    Hash: c747008736bf1275021de8ffa77d19fb
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
 - Class: 114
@@ -32,6 +30,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Theme Assets/Theme Collections/Golf Theme Collection.asset
 Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/golf
   background theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/golf

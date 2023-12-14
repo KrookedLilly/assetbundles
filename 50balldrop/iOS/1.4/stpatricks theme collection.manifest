@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 846877401
+CRC: 3229463719
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8a2c2451d34233f9611fb6f6c32fa88
+    Hash: 0b3cd8b1d3d699c3bf4098fef1eede6a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d0706a4d9627342f6d042b3f50a5aaf5
+    Hash: f7e904a1dc81826506adbf6e443cbe8e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d8a2c2451d34233f9611fb6f6c32fa88
+    Hash: 0b3cd8b1d3d699c3bf4098fef1eede6a
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
 - Class: 114
@@ -30,6 +28,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Theme Assets/Theme Collections/StPatricks Theme Collection.asset
 Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/stpatricks
   background theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/stpatricks

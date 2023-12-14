@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1002891776
+CRC: 3359185145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89af8e84c0221c7ebc4b530581d3fa8f
+    Hash: 8e7a1b5a449e7598dd9f7299b07505ab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5a4ae9b9e991db62d2ef4d91be449377
+    Hash: 2b0d2aeb4e5392dacf62b84ca08e15c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 89af8e84c0221c7ebc4b530581d3fa8f
+    Hash: 8e7a1b5a449e7598dd9f7299b07505ab
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
 - Class: 114
@@ -32,6 +30,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Theme Assets/Theme Collections/Office Theme Collection.asset
 Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/office
   background theme
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/office
