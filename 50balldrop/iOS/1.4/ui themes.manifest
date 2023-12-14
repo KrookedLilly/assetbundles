@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 935540338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a84cfa30be71bd7ca951c6c6064ed075
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a085200c5281fc844257d73e9342ca43
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a84cfa30be71bd7ca951c6c6064ed075
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a557f94a8d81488dbb923cc6bd3bb21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86368c19949cf4bda84868cb4ee3d875, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme Assets/UI Themes/Media Off Icon Sprite.asset
+- Assets/Theme Assets/UI Themes/Ten Amount Sprite.asset
+- Assets/Theme Assets/UI Themes/Options Icon Sprite.asset
+- Assets/Theme Assets/UI Themes/Video Icon Sprite.asset
+- Assets/Theme Assets/UI Themes/Shop Button Theme.asset
+- Assets/Theme Assets/UI Themes/Achievements Button.asset
+- Assets/Theme Assets/UI Themes/Achievements Sprite.asset
+- Assets/Theme Assets/UI Themes/Vibrate Icon Sprite.asset
+- Assets/Theme Assets/UI Themes/Five Amount Sprite.asset
+- Assets/Theme Assets/UI Themes/Shop Button Sprite.asset
+- Assets/Theme Assets/UI Themes/Play Button Theme.asset
+- Assets/Theme Assets/UI Themes/Generic Button Data.asset
+- Assets/Theme Assets/UI Themes/Options Button Theme.asset
+- Assets/Theme Assets/UI Themes/Sound Icon Sprite.asset
+Dependencies: []
