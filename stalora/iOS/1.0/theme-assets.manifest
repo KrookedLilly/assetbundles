@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2968296877
+CRC: 4002845649
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8beac717987d1ba7cfc569f14badd5ff
+    Hash: 72756a6dfbb2ec33cceb3dde1842a2fb
   TypeTreeHash:
     serializedVersion: 2
     Hash: a13ef3c8e726aa04f63e6505af1aeefe
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8beac717987d1ba7cfc569f14badd5ff
+    Hash: 72756a6dfbb2ec33cceb3dde1842a2fb
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -18,7 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme-Assets/EasyModeButtonColor.asset
-- Assets/Theme-Assets/HardModeButtonColor.asset
-- Assets/Theme-Assets/MediumModeButtonColor.asset
+- Assets/Theme-Assets/UI_ButtonColorEasyMode.asset
+- Assets/Theme-Assets/UI_ButtonColorHardMode.asset
+- Assets/Theme-Assets/UI_ButtonColorMediumMode.asset
 Dependencies: []
