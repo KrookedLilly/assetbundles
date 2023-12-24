@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2733331022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e0c7b2de4e4ba55093ab25126213d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a13ef3c8e726aa04f63e6505af1aeefe
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5e0c7b2de4e4ba55093ab25126213d7
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: cd809891b20f14c36a96b10200b45d85, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme-Assets/UI_ButtonColorMediumMode.asset
+Dependencies: []

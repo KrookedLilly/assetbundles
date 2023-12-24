@@ -1,7 +1,13 @@
 ManifestFileVersion: 0
-CRC: 1308445706
+CRC: 1279963901
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: theme-assets
+      Name: ui_buttoncoloreasymode
+      Dependencies: {}
+    Info_1:
+      Name: ui_buttoncolorhardmode
+      Dependencies: {}
+    Info_2:
+      Name: ui_buttoncolormediummode
       Dependencies: {}

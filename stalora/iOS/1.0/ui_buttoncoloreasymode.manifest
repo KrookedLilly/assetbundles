@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2509352988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 761dd5c1cd42f94cb7e0752e4d36d7ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a13ef3c8e726aa04f63e6505af1aeefe
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 761dd5c1cd42f94cb7e0752e4d36d7ae
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: cd809891b20f14c36a96b10200b45d85, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Theme-Assets/UI_ButtonColorEasyMode.asset
+Dependencies: []
