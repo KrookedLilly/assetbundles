@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1313972699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e95d2e699891c70c86ad4668754c7f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e95d2e699891c70c86ad4668754c7f0
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ios/1.0/abjsondata.json
+Dependencies: []
