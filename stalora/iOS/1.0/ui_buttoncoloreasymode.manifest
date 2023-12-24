@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2509352988
+CRC: 2523042154
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 761dd5c1cd42f94cb7e0752e4d36d7ae
+    Hash: 0e1854963759ebbe984cc233c06450c1
   TypeTreeHash:
     serializedVersion: 2
     Hash: a13ef3c8e726aa04f63e6505af1aeefe
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 761dd5c1cd42f94cb7e0752e4d36d7ae
+    Hash: 0e1854963759ebbe984cc233c06450c1
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -18,5 +18,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme-Assets/UI_ButtonColorEasyMode.asset
+- Assets/Theme-Assets/UI_ButtonEasyMode.asset
 Dependencies: []

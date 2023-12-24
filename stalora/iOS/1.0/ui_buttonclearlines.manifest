@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4114673021
+CRC: 2342913649
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 603aebe1834d3b1bbf14ed10c0a13350
+    Hash: 55efe55e0ec4fdd99a32c7bed9a33d91
   TypeTreeHash:
     serializedVersion: 2
     Hash: a13ef3c8e726aa04f63e6505af1aeefe
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 603aebe1834d3b1bbf14ed10c0a13350
+    Hash: 55efe55e0ec4fdd99a32c7bed9a33d91
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -18,5 +18,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme-Assets/UI_ButtonHardMode.asset
+- Assets/Theme-Assets/UI_ButtonClearLines.asset
 Dependencies: []

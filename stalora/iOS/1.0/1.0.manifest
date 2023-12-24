@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3806405853
+CRC: 3650128165
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,4 +13,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: __defaults
+      Dependencies: {}
+    Info_4:
+      Name: ui_buttonclearlines
       Dependencies: {}
