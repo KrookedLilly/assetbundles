@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2132853257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca02d6e39642385d1ce3537914773566
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b785f013ed57a627366023954430d9c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ca02d6e39642385d1ce3537914773566
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ed8cf3251fd487c9e868ed0bcd5507, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/Bucket Themes/Basketball Bucket Theme.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/__defaults

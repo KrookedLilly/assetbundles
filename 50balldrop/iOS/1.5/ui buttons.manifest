@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1028130948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b4dfaa1f59d1b078d79c93a300118dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 085414b93bf228701a1b8357f65aceeb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b4dfaa1f59d1b078d79c93a300118dd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a557f94a8d81488dbb923cc6bd3bb21, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Shop Button Theme.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Close Button Theme.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Achievements Button.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Play Button Theme.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Generic Button Data.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Shop Footer Button Theme.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Buttons/Options Button Theme.asset
+Dependencies: []

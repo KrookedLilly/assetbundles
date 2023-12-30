@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2972883885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad5588c439b2a1c608b959bcad00fc18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3735eb8af2fe77130823e106be3a06f4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad5588c439b2a1c608b959bcad00fc18
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74db0ffcf496f4ac0bac9e188ac0ede3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/Tube Themes/Classic Tube Theme.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/__defaults

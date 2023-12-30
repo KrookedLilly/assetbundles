@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 824422348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2b7ea01827ba361fe51c2e6e551be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7e904a1dc81826506adbf6e443cbe8e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa2b7ea01827ba361fe51c2e6e551be0
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09284552266974704b0bf838e57732a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f07dd2ddebf39422888923075b4c654d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/Theme Collections/StPatricks Theme Collection.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/__defaults
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/stpatricks
+  background theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/stpatricks
+  ball theme
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/stpatricks
+  bucket theme
