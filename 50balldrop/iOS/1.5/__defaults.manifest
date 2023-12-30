@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3132674438
+CRC: 3651171960
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 438feadee3b350778512109a5d16692f
+    Hash: 103f33b2702d82c3e4fe644fb21536ba
   TypeTreeHash:
     serializedVersion: 2
     Hash: db5098f5b78481245899828f3462809d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 438feadee3b350778512109a5d16692f
+    Hash: 103f33b2702d82c3e4fe644fb21536ba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -90,39 +90,29 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Textures/yellow-circle.png
 - Assets/Prefabs/Buckets/Recycle Bin.prefab
-- Assets/Textures/Backgrounds/snow-8.png
 - Assets/Prefabs/Buckets/Classic Bucket.prefab
-- Assets/Sounds/Catch Ball Sound.wav
-- Assets/Prefabs/Balls/Soccor Ball.prefab
+- Assets/Textures/Backgrounds/snow-8.png
 - Assets/Textures/Backgrounds/christmas-lights.png
-- Assets/Prefabs/Buckets/Yellow Present Bucket.prefab
 - Assets/Textures/Backgrounds/snow-11.png
 - Assets/Textures/Backgrounds/Pong Background.png
 - Assets/Prefabs/Balls/Golf Ball.prefab
 - Assets/Textures/Backgrounds/holiday-theme-thumbnail.png
 - Assets/Prefabs/Backgrounds/Basketball Background.prefab
-- Assets/Textures/ST Patricks Day Theme Thumbnail.png
+- Assets/Prefabs/Balls/Gold Coin.prefab
 - Assets/Textures/Balls/baseball.png
 - Assets/Textures/basketball-tube-item-thumbnail.png
 - Assets/Animations/ezgif-1-45f5fdb326d5_0.controller
-- Assets/Textures/Default Theme Thumbnail.PNG
 - Assets/Textures/Backgrounds/snow-6.png
 - Assets/Textures/Buckets/orange-present-overlay.png
 - Assets/Textures/hoop_front1.png
 - Assets/Textures/golf_bucket_front.png
 - Assets/Textures/Balls/Circle.png
-- Assets/Textures/Fireplace Animation/fire-3.png
 - Assets/Textures/Backgrounds/snow-12.png
 - Assets/Textures/Balls/football.png
 - Assets/Textures/Generic Square.png
-- Assets/Textures/Fireplace Animation/fire-1.png
 - Assets/Textures/cauldren-item-thumbnail.png
 - Assets/Textures/Buckets/green-present-overlay.png
-- Assets/Prefabs/Balls/Gold Coin.prefab
-- Assets/Textures/Basketball Theme Thumbnail.png
-- Assets/Textures/Pong Theme Thumbnail.png
 - Assets/Textures/golf-tube-item-thumbnail.png
 - Assets/Textures/bin_front.png
 - Assets/Textures/golf-basket-item-thumbnail.png
@@ -132,7 +122,6 @@ Assets:
 - Assets/Textures/Buckets/purple-present-overlay.png
 - Assets/Textures/Backgrounds/Office Background.png
 - Assets/Prefabs/Backgrounds/Golf Background.prefab
-- Assets/Textures/Fireplace Animation/fire-4.png
 - Assets/Prefabs/Backgrounds/Pong Background.prefab
 - Assets/Textures/Balls/beach-ball.png
 - Assets/Textures/bin_fill.png
@@ -146,7 +135,6 @@ Assets:
 - Assets/Prefabs/Balls/Ping Pong Ball.prefab
 - Assets/Textures/Balls/new-golf-ball.png
 - Assets/Textures/Backgrounds/snow-14.png
-- Assets/Textures/snow_heavy.png
 - Assets/Textures/hoop_stand.png
 - Assets/Textures/Balls/gold-ornament.png
 - Assets/Textures/black-cauldron 1.png
@@ -154,7 +142,6 @@ Assets:
 - Assets/Textures/Hoop-net.png
 - Assets/Textures/Balls/new-basketball.png
 - Assets/Prefabs/Balls/Baseball.prefab
-- Assets/Materials/Ball Material - NO BOUNCE.physicsMaterial2D
 - Assets/Textures/Buckets/yellow-present-overlay.png
 - Assets/Textures/Backgrounds/snow-5.png
 - Assets/Prefabs/Buckets/Golf Bucket.prefab
@@ -167,10 +154,9 @@ Assets:
 - Assets/Textures/Backgrounds/snow-10.png
 - Assets/Textures/Backgrounds/Golf Background.png
 - Assets/Textures/Balls/gold-coin.png
-- Assets/Textures/Backgrounds/window-overlay.png
+- Assets/Prefabs/Balls/Paper Ball.prefab
 - Assets/Textures/Backgrounds/christmas-tree-with-presents.png
 - Assets/Materials/Bouncy Ground.physicsMaterial2D
-- Assets/Prefabs/Balls/Paper Ball.prefab
 - Assets/Textures/Buckets/blue-present.png
 - Assets/Textures/Square.png
 - Assets/Prefabs/Balls/Green Ornament Ball.prefab
@@ -179,12 +165,10 @@ Assets:
 - Assets/Textures/Buckets/blue-present-overlay.png
 - Assets/Textures/Buckets/holiday-bucket-item-thumbnail.png
 - Assets/Textures/Backgrounds/snow-1.png
-- Assets/Prefabs/Balls/Football.prefab
 - Assets/Prefabs/Backgrounds/StPatricks Background.prefab
 - Assets/Textures/Backgrounds/snow-4.png
 - Assets/Textures/Backgrounds/snow-7.png
 - Assets/Textures/Balls/ping-pong.png
-- Assets/Prefabs/Balls/8 Ball.prefab
 - Assets/Prefabs/Backgrounds/Holiday Background.prefab
 - Assets/Textures/Balls/8-ball.png
 - Assets/Textures/pong_cup_whole.png
@@ -217,10 +201,8 @@ Assets:
 - Assets/Materials/Ball Material.physicsMaterial2D
 - Assets/Textures/ezgif-1-45f5fdb326d6.png
 - Assets/Textures/Backgrounds/fireplace-3.png
-- Assets/Textures/Golf Theme Thumbnail.png
 - Assets/Prefabs/Balls/Bowling Ball.prefab
 - Assets/Textures/sun-beams.png
 - Assets/Textures/golf_bucket.png
 - Assets/Prefabs/Balls/Basketball.prefab
-- Assets/Textures/Office Theme Thumbnail.PNG
 Dependencies: []
