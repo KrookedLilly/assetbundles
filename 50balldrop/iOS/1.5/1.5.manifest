@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1497821073
+CRC: 1048873340
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -222,3 +222,7 @@ AssetBundleManifest:
     Info_48:
       Name: ui buttons
       Dependencies: {}
+    Info_49:
+      Name: ui images
+      Dependencies:
+        Dependency_0: __defaults

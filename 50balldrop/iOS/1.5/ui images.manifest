@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2699827082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e22b8d2102afe7619e115d335b9660f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eaa7d0055438d44c99a1986537493022
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e22b8d2102afe7619e115d335b9660f3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86368c19949cf4bda84868cb4ee3d875, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Media Off Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Ten Amount Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Options Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Video Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Try Theme Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Achievements Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Vibrate Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Five Amount Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Shop Button Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Buckets Footer Button Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Backgrounds Footer Button Icon
+  Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Collections Footer Button Icon
+  Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Locked Store Item Overlay.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Balls Footer Button Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Tubes Footer Button Icon Sprite.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Shop Window Theme.asset
+- Assets/Themes-Asset-Bundles/UI Themes/UI Images/Sound Icon Sprite.asset
+Dependencies:
+- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/__defaults
