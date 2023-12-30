@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1758922967
+CRC: 2306887502
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 948b8386a6ffd83249b9129da974a4c1
+    Hash: eae85a54f917a6d2a60e13a24501681f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7b785f013ed57a627366023954430d9c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 948b8386a6ffd83249b9129da974a4c1
+    Hash: eae85a54f917a6d2a60e13a24501681f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,6 +26,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme Assets/Bucket Themes/Pong Bucket Theme.asset
+- Assets/Themes-Asset-Bundles/Bucket Themes/Pong Bucket Theme.asset
 Dependencies:
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 141296349
+CRC: 2568613522
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e09efd57eccf243e558ec7b722d705ce
+    Hash: c61496cd29f0661c48de52b3da478fc6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2b0d2aeb4e5392dacf62b84ca08e15c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e09efd57eccf243e558ec7b722d705ce
+    Hash: c61496cd29f0661c48de52b3da478fc6
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -28,7 +28,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme Assets/Theme Collections/Holday Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Holday Theme Collection.asset
 Dependencies:
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/green

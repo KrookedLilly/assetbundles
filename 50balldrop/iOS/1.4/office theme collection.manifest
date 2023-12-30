@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3359185145
+CRC: 1063113655
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e7a1b5a449e7598dd9f7299b07505ab
+    Hash: 84bd89d3bda33487e7b19f084b036c2f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2b0d2aeb4e5392dacf62b84ca08e15c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8e7a1b5a449e7598dd9f7299b07505ab
+    Hash: 84bd89d3bda33487e7b19f084b036c2f
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -28,7 +28,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme Assets/Theme Collections/Office Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Office Theme Collection.asset
 Dependencies:
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/office

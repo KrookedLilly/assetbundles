@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3177927199
+CRC: 1096042267
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad98a2f4c6658f3184abb40ba818549d
+    Hash: 9887fd831320209a7c65a9081027a67d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3735eb8af2fe77130823e106be3a06f4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ad98a2f4c6658f3184abb40ba818549d
+    Hash: 9887fd831320209a7c65a9081027a67d
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -22,6 +22,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme Assets/Tube Themes/Holiday Tube Theme.asset
+- Assets/Themes-Asset-Bundles/Tube Themes/Holiday Tube Theme.asset
 Dependencies:
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults

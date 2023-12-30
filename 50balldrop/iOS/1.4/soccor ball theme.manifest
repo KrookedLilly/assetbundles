@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1472427337
+CRC: 2490372634
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f6900edfd6d4174ce5412dc611cab4be
+    Hash: 2204b2e2c79511d2ff54c099b4365a10
   TypeTreeHash:
     serializedVersion: 2
     Hash: cc6296e4c9adb67b7e7ce97d1e49505f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f6900edfd6d4174ce5412dc611cab4be
+    Hash: 2204b2e2c79511d2ff54c099b4365a10
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,6 +26,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Theme Assets/Ball Themes/Soccor Ball Theme.asset
+- Assets/Themes-Asset-Bundles/Ball Themes/Soccor Ball Theme.asset
 Dependencies:
 - /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.4/__defaults

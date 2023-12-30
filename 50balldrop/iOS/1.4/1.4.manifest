@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 15796833
+CRC: 1515900758
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -220,3 +220,6 @@ AssetBundleManifest:
       Name: ui themes
       Dependencies:
         Dependency_0: __defaults
+    Info_48:
+      Name: communitymessage
+      Dependencies: {}

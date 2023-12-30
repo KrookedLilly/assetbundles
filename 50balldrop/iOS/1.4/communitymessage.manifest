@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 53893403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29d4169828eb9baaf541a57bb3234d1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f19f90e85a49e527c3aa62f4c939d16
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29d4169828eb9baaf541a57bb3234d1d
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 320c08f15717f48e0ba9bf83680e1c20, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/CommunityMessage.asset
+Dependencies: []
