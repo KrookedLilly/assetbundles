@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3575954478
+CRC: 14268047
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -34,4 +34,7 @@ AssetBundleManifest:
         Dependency_0: __defaults
     Info_7:
       Name: __defaults
+      Dependencies: {}
+    Info_8:
+      Name: communitymessage
       Dependencies: {}
