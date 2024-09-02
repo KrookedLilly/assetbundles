@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2176828536
+CRC: 1153474919
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: shipattachments
       Dependencies: {}
     Info_1:
-      Name: attack command sprite
+      Name: image_attack command sprite
       Dependencies: {}
