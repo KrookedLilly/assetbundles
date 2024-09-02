@@ -1,20 +1,25 @@
 ManifestFileVersion: 0
-CRC: 868359990
+CRC: 3053531216
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c695c8b9695ee61225fd4ab6bf2f40e
+    Hash: b37ce6ca3bf21fefe92cfbe051f25e4d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 1bba0c91ece13f075040cc62060b6ba4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c695c8b9695ee61225fd4ab6bf2f40e
+    Hash: b37ce6ca3bf21fefe92cfbe051f25e4d
 HashAppended: 0
 ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 49
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Textures/Command Buttons/Attack.png
 - Assets/Resources/shipattachments.xml
 Dependencies: []
