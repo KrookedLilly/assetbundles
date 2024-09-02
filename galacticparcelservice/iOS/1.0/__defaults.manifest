@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 868359990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c695c8b9695ee61225fd4ab6bf2f40e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c695c8b9695ee61225fd4ab6bf2f40e
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/shipattachments.xml
+Dependencies: []
