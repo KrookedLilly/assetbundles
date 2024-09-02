@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1092986042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 503929572b19ce785751b3c2b5b084d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9ae94ea14bdf687c93d955959b944a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 503929572b19ce785751b3c2b5b084d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/Attack Command Sprite.asset
+Dependencies: []
