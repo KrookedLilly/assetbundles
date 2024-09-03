@@ -1,77 +1,89 @@
 ManifestFileVersion: 0
-CRC: 1907316441
+CRC: 2724209269
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: __defaults
       Dependencies: {}
     Info_1:
-      Name: ui image_cancel command sprite
-      Dependencies: {}
-    Info_2:
-      Name: ui image_defense command sprite
-      Dependencies: {}
-    Info_3:
-      Name: ui image_deliver command sprite
-      Dependencies: {}
-    Info_4:
-      Name: ui image_dock command sprite
-      Dependencies: {}
-    Info_5:
-      Name: ui image_load command sprite
-      Dependencies: {}
-    Info_6:
-      Name: ui image_mine command sprite
-      Dependencies: {}
-    Info_7:
-      Name: ui image_pickup command sprite
-      Dependencies: {}
-    Info_8:
-      Name: ui image_recall command sprite
-      Dependencies: {}
-    Info_9:
-      Name: ui image_remove command sprite
-      Dependencies: {}
-    Info_10:
-      Name: ui image_routes command sprite
-      Dependencies: {}
-    Info_11:
-      Name: ui image_ship shop command sprite
-      Dependencies: {}
-    Info_12:
-      Name: ui image_speed command sprite
-      Dependencies: {}
-    Info_13:
-      Name: ui image_transport command sprite
-      Dependencies: {}
-    Info_14:
-      Name: ui image_upgrades command sprite
-      Dependencies: {}
-    Info_15:
-      Name: ui image_view clients command sprite
-      Dependencies: {}
-    Info_16:
-      Name: ui image_view hub command sprite
-      Dependencies: {}
-    Info_17:
-      Name: ui image_view locations command sprite
-      Dependencies: {}
-    Info_18:
-      Name: ui image_view market command sprite
-      Dependencies: {}
-    Info_19:
-      Name: ui image_view packages command sprite
-      Dependencies: {}
-    Info_20:
-      Name: ui image_view ships command sprite
-      Dependencies: {}
-    Info_21:
-      Name: ui image_weapon command sprite
-      Dependencies: {}
-    Info_22:
       Name: ui image_attack command sprite
       Dependencies:
         Dependency_0: __defaults
-    Info_23:
+    Info_2:
+      Name: ui image_cancel command sprite
+      Dependencies: {}
+    Info_3:
+      Name: ui image_client sprite
+      Dependencies: {}
+    Info_4:
+      Name: ui image_defense command sprite
+      Dependencies: {}
+    Info_5:
+      Name: ui image_deliver command sprite
+      Dependencies: {}
+    Info_6:
+      Name: ui image_dock command sprite
+      Dependencies: {}
+    Info_7:
+      Name: ui image_load command sprite
+      Dependencies: {}
+    Info_8:
+      Name: ui image_market sprite
+      Dependencies: {}
+    Info_9:
+      Name: ui image_mine command sprite
+      Dependencies: {}
+    Info_10:
       Name: ui image_navigation command sprite
+      Dependencies: {}
+    Info_11:
+      Name: ui image_package sprite
+      Dependencies: {}
+    Info_12:
+      Name: ui image_pickup command sprite
+      Dependencies: {}
+    Info_13:
+      Name: ui image_recall command sprite
+      Dependencies: {}
+    Info_14:
+      Name: ui image_remove command sprite
+      Dependencies: {}
+    Info_15:
+      Name: ui image_routes command sprite
+      Dependencies: {}
+    Info_16:
+      Name: ui image_ship shop command sprite
+      Dependencies: {}
+    Info_17:
+      Name: ui image_ship sprite
+      Dependencies: {}
+    Info_18:
+      Name: ui image_speed command sprite
+      Dependencies: {}
+    Info_19:
+      Name: ui image_transport command sprite
+      Dependencies: {}
+    Info_20:
+      Name: ui image_upgrades command sprite
+      Dependencies: {}
+    Info_21:
+      Name: ui image_view cargo command sprite
+      Dependencies: {}
+    Info_22:
+      Name: ui image_view clients command sprite
+      Dependencies: {}
+    Info_23:
+      Name: ui image_view hub command sprite
+      Dependencies: {}
+    Info_24:
+      Name: ui image_view locations command sprite
+      Dependencies: {}
+    Info_25:
+      Name: ui image_view market command sprite
+      Dependencies: {}
+    Info_26:
+      Name: ui image_view ships command sprite
+      Dependencies: {}
+    Info_27:
+      Name: ui image_weapon command sprite
       Dependencies: {}
