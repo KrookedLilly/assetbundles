@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 195973229
+CRC: 3091846107
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -105,5 +105,5 @@ AssetBundleManifest:
       Name: ui image_weapon command sprite
       Dependencies: {}
     Info_34:
-      Name: _defaults
+      Name: __defaults
       Dependencies: {}

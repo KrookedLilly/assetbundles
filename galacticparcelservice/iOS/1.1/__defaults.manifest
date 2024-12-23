@@ -1,25 +1,22 @@
 ManifestFileVersion: 0
-CRC: 214202741
+CRC: 696035221
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 40025020a0047ccdc2a3d47ce4905e06
+    Hash: 0d79024b42e152afa722316eec8b3593
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1bba0c91ece13f075040cc62060b6ba4
+    Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 40025020a0047ccdc2a3d47ce4905e06
+    Hash: 0d79024b42e152afa722316eec8b3593
 HashAppended: 0
 ClassTypes:
 - Class: 28
-  Script: {instanceID: 0}
-- Class: 49
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Textures/UI/Attack.png
-- Assets/Resources/shipattachments.xml
+- Assets/Textures/UI/Tractor Beam.png
 Dependencies: []
