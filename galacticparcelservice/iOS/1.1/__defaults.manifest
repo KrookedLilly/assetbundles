@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 214202741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40025020a0047ccdc2a3d47ce4905e06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1bba0c91ece13f075040cc62060b6ba4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40025020a0047ccdc2a3d47ce4905e06
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/UI/Attack.png
+- Assets/Resources/shipattachments.xml
+Dependencies: []

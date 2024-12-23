@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3691320550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eae0b6dbbe9f814f84756edae6532fab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9ae94ea14bdf687c93d955959b944a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eae0b6dbbe9f814f84756edae6532fab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Transport Command Sprite.asset
+Dependencies: []
