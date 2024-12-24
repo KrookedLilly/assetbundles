@@ -1,26 +1,22 @@
 ManifestFileVersion: 0
-CRC: 1533401191
+CRC: 3255647697
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65e2e931d2234f840de08a7c2cc6e271
+    Hash: f3c2eeb266469d6697315d9994efc3af
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c9ae94ea14bdf687c93d955959b944a9
+    Hash: 21052c7313a47832f86296cf1f44303a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 65e2e931d2234f840de08a7c2cc6e271
+    Hash: f3c2eeb266469d6697315d9994efc3af
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/ThemeAssets/ui image_Attack Command Sprite.asset
+- Assets/ThemeAssets/ui image_Ship Shop Command Sprite.asset
 Dependencies: []

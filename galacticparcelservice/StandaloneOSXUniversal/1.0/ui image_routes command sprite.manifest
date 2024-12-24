@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1533401191
+CRC: 3404783453
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65e2e931d2234f840de08a7c2cc6e271
+    Hash: 38a14335dc1727f6f293ddaa92f6b485
   TypeTreeHash:
     serializedVersion: 2
     Hash: c9ae94ea14bdf687c93d955959b944a9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 65e2e931d2234f840de08a7c2cc6e271
+    Hash: 38a14335dc1727f6f293ddaa92f6b485
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -22,5 +22,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/ThemeAssets/ui image_Attack Command Sprite.asset
+- Assets/ThemeAssets/ui image_Routes Command Sprite.asset
 Dependencies: []
