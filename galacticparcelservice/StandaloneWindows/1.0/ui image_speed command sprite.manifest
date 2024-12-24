@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3919834541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a026f034b2d4cc65be1ec741f1562fdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21052c7313a47832f86296cf1f44303a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a026f034b2d4cc65be1ec741f1562fdb
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Speed Command Sprite.asset
+Dependencies: []

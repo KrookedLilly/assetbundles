@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4227008290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f04f767084944b0250857fe06e7e971
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8f04f767084944b0250857fe06e7e971
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/UI/Tractor Beam.png
+Dependencies: []
