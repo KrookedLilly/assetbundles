@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2896056301
+CRC: 3457132009
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99ee185ff89193806b7ce780e7af0a9b
+    Hash: e2f0ea0ee9a349facbd68316dfd8a504
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 99ee185ff89193806b7ce780e7af0a9b
+    Hash: e2f0ea0ee9a349facbd68316dfd8a504
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,5 +18,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Textures/UI/Load.png
 - Assets/Textures/UI/Tractor Beam.png
 Dependencies: []

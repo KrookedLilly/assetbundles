@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2273253067
+CRC: 3306659814
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -21,164 +21,187 @@ AssetBundleManifest:
       Name: ui image_billboard upgrade
       Dependencies: {}
     Info_6:
-      Name: ui image_build hub upgrade
+      Name: ui image_build base upgrade
       Dependencies: {}
     Info_7:
-      Name: ui image_cancel command sprite
+      Name: ui image_build beacon upgrade
       Dependencies: {}
     Info_8:
-      Name: ui image_client sprite
+      Name: ui image_build billboard upgrade
       Dependencies: {}
     Info_9:
-      Name: ui image_contraband icon
+      Name: ui image_build extractor upgrade
       Dependencies: {}
     Info_10:
-      Name: ui image_defense command sprite
+      Name: ui image_build fuel upgrade
       Dependencies: {}
     Info_11:
-      Name: ui image_deliver command sprite
+      Name: ui image_build hub upgrade
       Dependencies: {}
     Info_12:
-      Name: ui image_delivery distance upgrade
+      Name: ui image_build terraform upgrade
       Dependencies: {}
     Info_13:
-      Name: ui image_dock command sprite
+      Name: ui image_cancel command sprite
       Dependencies: {}
     Info_14:
-      Name: ui image_envelope icon
+      Name: ui image_client sprite
       Dependencies: {}
     Info_15:
-      Name: ui image_escapepod sprite
+      Name: ui image_contraband icon
       Dependencies: {}
     Info_16:
-      Name: ui image_extractor sprite
+      Name: ui image_defense command sprite
       Dependencies: {}
     Info_17:
-      Name: ui image_extractor upgrade
+      Name: ui image_deliver command sprite
       Dependencies: {}
     Info_18:
-      Name: ui image_fuel upgrade
+      Name: ui image_delivery distance upgrade
       Dependencies: {}
     Info_19:
-      Name: ui image_hazar
-      Dependencies: {}
+      Name: ui image_dock command sprite
+      Dependencies:
+        Dependency_0: __defaults
     Info_20:
-      Name: ui image_hazard icon
+      Name: ui image_envelope icon
       Dependencies: {}
     Info_21:
-      Name: ui image_hub outline sprite
+      Name: ui image_escapepod sprite
       Dependencies: {}
     Info_22:
-      Name: ui image_hub station sprite
+      Name: ui image_extractor sprite
       Dependencies: {}
     Info_23:
-      Name: ui image_load command sprite
+      Name: ui image_extractor upgrade
       Dependencies: {}
     Info_24:
-      Name: ui image_log window bg
+      Name: ui image_fuel upgrade
       Dependencies: {}
     Info_25:
-      Name: ui image_logbook icon
+      Name: ui image_hazar
       Dependencies: {}
     Info_26:
-      Name: ui image_main window bg
+      Name: ui image_hazard icon
       Dependencies: {}
     Info_27:
-      Name: ui image_market sprite
+      Name: ui image_hub outline sprite
       Dependencies: {}
     Info_28:
-      Name: ui image_mine command sprite
+      Name: ui image_hub station sprite
       Dependencies: {}
     Info_29:
-      Name: ui image_navigation command sprite
-      Dependencies: {}
+      Name: ui image_load command sprite
+      Dependencies:
+        Dependency_0: __defaults
     Info_30:
-      Name: ui image_package sprite
+      Name: ui image_log window bg
       Dependencies: {}
     Info_31:
-      Name: ui image_pickup command sprite
+      Name: ui image_logbook icon
       Dependencies: {}
     Info_32:
-      Name: ui image_play stars icon
+      Name: ui image_main window bg
       Dependencies: {}
     Info_33:
-      Name: ui image_recall command sprite
+      Name: ui image_main window border
       Dependencies: {}
     Info_34:
-      Name: ui image_refinery upgrade
+      Name: ui image_market sprite
       Dependencies: {}
     Info_35:
-      Name: ui image_remove command sprite
+      Name: ui image_mine command sprite
       Dependencies: {}
     Info_36:
-      Name: ui image_resource sprite i
+      Name: ui image_navigation command sprite
       Dependencies: {}
     Info_37:
-      Name: ui image_resource sprite l
+      Name: ui image_package sprite
       Dependencies: {}
     Info_38:
-      Name: ui image_resource sprite p
+      Name: ui image_pickup command sprite
       Dependencies: {}
     Info_39:
-      Name: ui image_routes command sprite
+      Name: ui image_play stars icon
       Dependencies: {}
     Info_40:
-      Name: ui image_settings icon
+      Name: ui image_recall command sprite
       Dependencies: {}
     Info_41:
-      Name: ui image_settings pull tab bg
+      Name: ui image_refinery upgrade
       Dependencies: {}
     Info_42:
-      Name: ui image_settings window bg
+      Name: ui image_remove command sprite
       Dependencies: {}
     Info_43:
-      Name: ui image_ship shop command sprite
+      Name: ui image_resource sprite i
       Dependencies: {}
     Info_44:
-      Name: ui image_ship sprite
+      Name: ui image_resource sprite l
       Dependencies: {}
     Info_45:
-      Name: ui image_slide handle
+      Name: ui image_resource sprite p
       Dependencies: {}
     Info_46:
-      Name: ui image_speed command sprite
+      Name: ui image_routes command sprite
       Dependencies: {}
     Info_47:
-      Name: ui image_transport command sprite
+      Name: ui image_settings icon
       Dependencies: {}
     Info_48:
-      Name: ui image_unknown signal sprite
+      Name: ui image_settings pull tab bg
       Dependencies: {}
     Info_49:
-      Name: ui image_upgrades command sprite
+      Name: ui image_settings window bg
       Dependencies: {}
     Info_50:
-      Name: ui image_view cargo command sprite
+      Name: ui image_ship shop command sprite
       Dependencies: {}
     Info_51:
-      Name: ui image_view clients command sprite
+      Name: ui image_ship sprite
       Dependencies: {}
     Info_52:
-      Name: ui image_view hub command sprite
+      Name: ui image_slide handle
       Dependencies: {}
     Info_53:
-      Name: ui image_view locations command sprite
+      Name: ui image_speed command sprite
       Dependencies: {}
     Info_54:
-      Name: ui image_view market command sprite
+      Name: ui image_transport command sprite
       Dependencies: {}
     Info_55:
-      Name: ui image_view ships command sprite
+      Name: ui image_unknown signal sprite
       Dependencies: {}
     Info_56:
-      Name: ui image_volume high icon
+      Name: ui image_upgrades command sprite
       Dependencies: {}
     Info_57:
-      Name: ui image_volume low icon
+      Name: ui image_view cargo command sprite
       Dependencies: {}
     Info_58:
-      Name: ui image_weapon command sprite
+      Name: ui image_view clients command sprite
       Dependencies: {}
     Info_59:
+      Name: ui image_view hub command sprite
+      Dependencies: {}
+    Info_60:
+      Name: ui image_view locations command sprite
+      Dependencies: {}
+    Info_61:
+      Name: ui image_view market command sprite
+      Dependencies: {}
+    Info_62:
+      Name: ui image_view ships command sprite
+      Dependencies: {}
+    Info_63:
+      Name: ui image_volume high icon
+      Dependencies: {}
+    Info_64:
+      Name: ui image_volume low icon
+      Dependencies: {}
+    Info_65:
+      Name: ui image_weapon command sprite
+      Dependencies: {}
+    Info_66:
       Name: ui text_log tab text
       Dependencies: {}

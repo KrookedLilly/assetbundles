@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2676165606
+CRC: 1388237844
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a31e61fb6487cec3f7b152d713e570a
+    Hash: 1b2f4fafb3c11857ee7a5194e5d31505
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c9ae94ea14bdf687c93d955959b944a9
+    Hash: 5bec386b27f44077d355cad00aa24d1f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0a31e61fb6487cec3f7b152d713e570a
+    Hash: 1b2f4fafb3c11857ee7a5194e5d31505
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
 - Class: 115
@@ -23,4 +21,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/ThemeAssets/ui image_Load Command Sprite.asset
-Dependencies: []
+Dependencies:
+- /Users/ryanharrington/Documents/Development/PixelDogStudios/assetbundles/galacticparcelservice/StandaloneOSXUniversal/1.0/__defaults
