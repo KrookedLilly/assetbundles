@@ -1,15 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3128727171
+UnityVersion: 6000.1.14f1
+CRC: 3392145205
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: adc06bb11fe278114b58e56b063cf5a3
+    Hash: 7c1f8ca3ee0e3af6773925ccf70bb21e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c9ae94ea14bdf687c93d955959b944a9
+    Hash: 8815472c573d6b532d63fe1127b779db
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: adc06bb11fe278114b58e56b063cf5a3
+    Hash: 244df1e220828544d9c750cede765ebf
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -23,5 +24,4 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/ThemeAssets/ui image_Attack Command Sprite.asset
-- Assets/Textures/UI/Attack.png
 Dependencies: []

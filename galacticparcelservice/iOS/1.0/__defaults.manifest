@@ -1,15 +1,16 @@
 ManifestFileVersion: 0
-CRC: 696035221
+UnityVersion: 6000.1.14f1
+CRC: 885179458
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d79024b42e152afa722316eec8b3593
+    Hash: 92191089258fdcb8c94a23d0d025e318
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d8df09e698f722ada1caa03d3413830
+    Hash: bc9f87c7e64ff656997db0f2b2a91703
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0d79024b42e152afa722316eec8b3593
+    Hash: 966d74d8ffab54b12442f33706bc9a00
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,5 +19,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Textures/UI/Load.png
 - Assets/Textures/UI/Tractor Beam.png
 Dependencies: []
