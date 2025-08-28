@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 2792760897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1973adb4bb3b477ba2bb48cf5b33bf5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38c695143909339a4ab6a8b09113a804
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Resource Sprite L.asset
+Dependencies: []

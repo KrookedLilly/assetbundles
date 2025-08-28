@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 1875274517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9dcfabd87f8d361101bb2ea5c874041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eaa983f210ed3840c8be10e7f3256373
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Deliver Command Sprite.asset
+Dependencies: []
