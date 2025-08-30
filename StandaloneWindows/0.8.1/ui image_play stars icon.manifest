@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 1231243939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de79f6faacd25247526532492b5edb05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 04cca7bdbc2aed903287226b646b91cb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Play Stars Icon.asset
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 4093916333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c441664bf5f77eb5d3df3bb587021391
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b76fe7edb83def36493869b9cd996071
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Extractor Upgrade.asset
+Dependencies: []
