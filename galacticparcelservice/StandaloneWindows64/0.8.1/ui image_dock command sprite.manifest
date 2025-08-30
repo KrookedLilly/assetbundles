@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 2629406767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32a7bed9cfaf29bcbead1f2ad2107672
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d6a8c376c7fbd3361c614c78b66bf78
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 136e8e7d90a5fe2a4ca616f3f20a873b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Dock Command Sprite.asset
+Dependencies:
+- /Users/ryanharrington/Documents/Development/PixelDogStudios/assetbundles/galacticparcelservice/StandaloneWindows64/0.8.1/__defaults
