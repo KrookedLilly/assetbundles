@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.1.14f1
-CRC: 2852776236
+CRC: 3821773366
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5be80a0b6d3a0630bb2a96972aab7178
+    Hash: cb0a0059afbabcbb477994d1dd7d6fd9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7d2ccb5a8d40567da05cbb8e7795c7e6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4d73a7bc701e8ab00ba16f02980c9fe3
+    Hash: a48adaf6d1dc8ad3fac762af6961d5f0
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -21,5 +21,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.TextTableField
 Assets:
-- Assets/ThemeAssets/Hintorial Text Table.asset
+- Assets/ThemeAssets/Clients Text Table.asset
 Dependencies: []
