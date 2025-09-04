@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.1.14f1
+CRC: 2884651024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 746c6e59ecb8244f3286463ecd1c5785
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d2ccb5a8d40567da05cbb8e7795c7e6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ae877e5a95acf4ea01ec5887f6258ad3
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.TextTableField
+Assets:
+- Assets/ThemeAssets/Water Clients Text Table.asset
+Dependencies: []
