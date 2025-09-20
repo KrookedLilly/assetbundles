@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 517404762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea82d9447a8b41fd0737605a261181ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d2ccb5a8d40567da05cbb8e7795c7e6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e0f7b6f4bb0643812308cedfcf67f7a5
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.TextTableField
+Assets:
+- Assets/ThemeAssets/Ice Clients Text Table.asset
+Dependencies: []

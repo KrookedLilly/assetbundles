@@ -1,22 +1,21 @@
 ManifestFileVersion: 0
-UnityVersion: 6000.1.14f1
-CRC: 3394666661
+UnityVersion: 6000.2.3f1
+CRC: 643456926
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5f2437a40c9616b68d0ed3af21a705b7
+    Hash: 7eab650a733c2999f08b52d2449af5d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 391fbbe7be942cc550e9627bc0520bcc
+    Hash: e0546245d4b7b35876c0088b04e04f4f
 HashAppended: 0
 ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Items.json
 - Assets/ThemeAssets/Items.json
 Dependencies: []
