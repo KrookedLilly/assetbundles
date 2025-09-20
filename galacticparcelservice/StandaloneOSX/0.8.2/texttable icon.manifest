@@ -1,24 +1,21 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.3f1
-CRC: 3782645032
+CRC: 1763476579
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 13cd0585f4591944ced0f1aabad97888
+    Hash: 5b7776d06ba6bb2dbf1a6963f8b98897
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bc9f87c7e64ff656997db0f2b2a91703
+    Hash: 1cfddeea06ce0ec573e0d0ec81ebe20e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 56b849edd56bb733c1cd0f24fbc5c73a
+    Hash: be7c7fd12a94416cecda300a8758c341
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Textures/UI/Load.png
-- Assets/Textures/UI/MenusBorder 1.png
+- Assets/Gizmos/TextTable Icon.png
 Dependencies: []
