@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 1646873407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69aec8652ba0e0e4ca2c50f2aef1ce9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d6a8c376c7fbd3361c614c78b66bf78
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e734396a971490489bde559f8b5ea374
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Load Command Sprite.asset
+Dependencies:
+- /Users/krookedmac/Documents/Development/PixelDogStudios/assetbundles/galacticparcelservice/StandaloneOSX/0.8.2/__defaults

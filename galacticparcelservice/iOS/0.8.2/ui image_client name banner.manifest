@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 4275904574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 490aab7872d1fc85616b3ee37c6379f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a745e21030ebd9a9fde8431fa3543819
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Client Name Banner.asset
+Dependencies: []

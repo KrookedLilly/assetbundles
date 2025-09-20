@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 1411850486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b291f9b5a97c9967b1f83f9614243acc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: db3f574a25419ed922fad9e4be81ee7d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Log Map Border.asset
+Dependencies: []

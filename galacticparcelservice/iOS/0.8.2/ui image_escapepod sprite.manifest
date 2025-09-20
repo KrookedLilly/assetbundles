@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 3257564095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20c086272da04fc59003ffa3f5b54bdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 580cbe3272f0092c17d9ac88301c8f7e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_EscapePod Sprite.asset
+Dependencies: []

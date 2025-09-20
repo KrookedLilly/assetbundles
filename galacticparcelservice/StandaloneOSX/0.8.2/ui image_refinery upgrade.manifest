@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 1832774724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 673500e842f716d08945af67f07be244
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e46e53bdcb35be8b1963312bee3abe1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Refinery Upgrade.asset
+Dependencies: []

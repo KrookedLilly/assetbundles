@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 543458303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f89b028f10b2bfa03290e3a0e10e092d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8815472c573d6b532d63fe1127b779db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c0cc2a6483019edef10fd4c0de153a13
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Log Window BG.asset
+Dependencies: []

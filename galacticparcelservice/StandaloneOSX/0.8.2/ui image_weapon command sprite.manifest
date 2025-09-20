@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 1222791933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 292b63af42dc98c4ad67e6c76e1a4de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21052c7313a47832f86296cf1f44303a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd64e04c46613ce3477d72f7bced7b8b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Weapon Command Sprite.asset
+Dependencies: []

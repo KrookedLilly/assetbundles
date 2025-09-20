@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 1314059552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aba571af23a0dfc239ac31c91cef6b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21052c7313a47832f86296cf1f44303a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 07c8df8b7bd8da5fe5eae8905769a3f6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Ship Shop Command Sprite.asset
+Dependencies: []

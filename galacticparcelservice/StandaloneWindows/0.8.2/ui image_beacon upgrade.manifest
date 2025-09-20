@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.3f1
+CRC: 797113542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdd5fe6b0b492a8714bbeb2e49ebe3f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21052c7313a47832f86296cf1f44303a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c991037609f790c4c0b0dbe2a2611e9
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ac226d7a2bd14a48b18511d8972befd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThemeAssets/ui image_Beacon Upgrade.asset
+Dependencies: []
