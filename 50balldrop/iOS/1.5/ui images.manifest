@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2699827082
+CRC: 3137804787
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e22b8d2102afe7619e115d335b9660f3
+    Hash: 60dc7108c4a1c5de1e303834ca9c7de1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: eaa7d0055438d44c99a1986537493022
+    Hash: c9ae94ea14bdf687c93d955959b944a9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e22b8d2102afe7619e115d335b9660f3
+    Hash: 60dc7108c4a1c5de1e303834ca9c7de1
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -42,4 +42,4 @@ Assets:
 - Assets/Themes-Asset-Bundles/UI Themes/UI Images/Shop Window Theme.asset
 - Assets/Themes-Asset-Bundles/UI Themes/UI Images/Sound Icon Sprite.asset
 Dependencies:
-- /Users/ryanharrington/Development/PixelDogStudios/assetbundles/50balldrop/iOS/1.5/__defaults
+- /Users/krookedmac/Documents/Development/KrookedLilly/assetbundles/50balldrop/iOS/1.5/__defaults

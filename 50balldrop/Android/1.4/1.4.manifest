@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 497914711
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: __defaults
+      Dependencies: {}
+    Info_1:
+      Name: tube themes
+      Dependencies:
+        Dependency_0: __defaults
+    Info_2:
+      Name: background themes
+      Dependencies:
+        Dependency_0: __defaults
+    Info_3:
+      Name: bucket themes
+      Dependencies:
+        Dependency_0: __defaults
+    Info_4:
+      Name: ui buttons
+      Dependencies: {}
+    Info_5:
+      Name: ui images
+      Dependencies:
+        Dependency_0: __defaults
+    Info_6:
+      Name: communitymessage
+      Dependencies: {}
+    Info_7:
+      Name: theme collections
+      Dependencies:
+        Dependency_0: tube themes
+        Dependency_1: background themes
+        Dependency_2: bucket themes
+        Dependency_3: ball themes
+    Info_8:
+      Name: ball themes
+      Dependencies:
+        Dependency_0: __defaults

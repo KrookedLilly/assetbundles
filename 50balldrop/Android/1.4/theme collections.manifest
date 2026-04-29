@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3658067259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df9fc792d14111b142714b00f7f8d13f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84036de815a9c1cabe850b731402924f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df9fc792d14111b142714b00f7f8d13f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b95ab5640412407e8b1d99b63e6e6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09284552266974704b0bf838e57732a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 495f148f523ab4256a369a7018845442, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f07dd2ddebf39422888923075b4c654d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74db0ffcf496f4ac0bac9e188ac0ede3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Themes-Asset-Bundles/Theme Collections/Golf Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Basketball Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/StPatricks Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Office Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Pong Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Classic Theme Collection.asset
+- Assets/Themes-Asset-Bundles/Theme Collections/Holday Theme Collection.asset
+Dependencies:
+- /Users/krookedmac/Documents/Development/KrookedLilly/assetbundles/50balldrop/Android/1.4/background
+  themes
+- /Users/krookedmac/Documents/Development/KrookedLilly/assetbundles/50balldrop/Android/1.4/ball
+  themes
+- /Users/krookedmac/Documents/Development/KrookedLilly/assetbundles/50balldrop/Android/1.4/bucket
+  themes
+- /Users/krookedmac/Documents/Development/KrookedLilly/assetbundles/50balldrop/Android/1.4/tube
+  themes
